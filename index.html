@@ -366,8 +366,13 @@
     }
 
     .panel-title {
-      margin: 0 0 9px;
+      margin: 0 0 12px;
       font-size: 15px;
+    }
+
+    aside .card {
+      padding: 14px;
+      overflow: visible;
     }
 
     .archive-head {
@@ -451,15 +456,16 @@
 
     .practice {
       display: grid;
-      gap: 10px;
+      gap: 12px;
     }
 
     .practice-line {
-      padding: 11px;
-      background: var(--white);
+      padding: 12px 13px;
+      background: var(--soft);
       border: 1px solid var(--line);
-      border-radius: 12px;
+      border-radius: 10px;
       line-height: 1.45;
+      overflow-wrap: anywhere;
     }
 
     footer {
@@ -529,13 +535,13 @@
       <section class="lesson-head" aria-labelledby="lessonTitle">
         <div class="hero">
           <div class="hero-copy">
-            <div class="kicker">Demo lesson</div>
+            <div class="kicker" id="lessonKicker">Latest lesson</div>
             <h2 id="lessonTitle">Sound Natural Without Sounding Too Casual</h2>
-            <p>今天练的是工作和朋友聊天都能用的“柔和推进”：不催、不硬，但能把事情往前带。</p>
+            <p id="lessonDescription">今天练的是工作和朋友聊天都能用的“柔和推进”：不催、不硬，但能把事情往前带。</p>
           </div>
           <div class="visual" aria-hidden="true"></div>
         </div>
-        <div class="chips" aria-label="Lesson filters">
+        <div class="chips" id="filterChips" aria-label="Lesson filters">
           <button class="chip active" type="button" data-filter="all">all</button>
           <button class="chip" type="button" data-filter="work">work</button>
           <button class="chip" type="button" data-filter="friends">friends</button>
@@ -571,12 +577,12 @@
     </main>
 
     <footer>
-      Demo only: in the full version, daily lessons live in separate data files and this page reads them automatically.
+      New lessons are generated daily and saved automatically.
     </footer>
   </div>
 
   <script>
-    const allLessons = [
+    let allLessons = [
       {
         date: "2026-06-14",
         title: "Sound Natural Without Sounding Too Casual",
@@ -695,14 +701,17 @@
       }
     ];
 
-    const lessons = allLessons[0].items;
+    let lessons = allLessons[0].items;
 
     const cards = document.querySelector("#cards");
     const practiceBox = document.querySelector("#practiceBox");
     const archiveList = document.querySelector("#archiveList");
     const todayLabel = document.querySelector("#todayLabel");
-    const filterChips = document.querySelectorAll("[data-filter]");
+    const filterChipBox = document.querySelector("#filterChips");
     const sortButtons = document.querySelectorAll("[data-sort]");
+    const lessonKicker = document.querySelector("#lessonKicker");
+    const lessonTitle = document.querySelector("#lessonTitle");
+    const lessonDescription = document.querySelector("#lessonDescription");
     const likeStorageKey = "dailyEnglishLikes";
     let currentFilter = "all";
     let currentSort = "date";
@@ -727,7 +736,7 @@
     }
 
     function setActiveFilter(mode) {
-      filterChips.forEach((item) => item.classList.toggle("active", item.dataset.filter === mode));
+      document.querySelectorAll("[data-filter]").forEach((item) => item.classList.toggle("active", item.dataset.filter === mode));
     }
 
     function setActiveSort(mode) {
@@ -847,13 +856,6 @@
       addLike(button.dataset.like);
     });
 
-    filterChips.forEach((button) => {
-      button.addEventListener("click", () => {
-        setActiveFilter(button.dataset.filter);
-        render(button.dataset.filter);
-      });
-    });
-
     sortButtons.forEach((button) => {
       button.addEventListener("click", () => {
         currentSort = button.dataset.sort;
@@ -862,7 +864,52 @@
       });
     });
 
-    render();
+    filterChipBox.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-filter]");
+      if (!button) return;
+      setActiveFilter(button.dataset.filter);
+      render(button.dataset.filter);
+    });
+
+    function renderFilters() {
+      const preferred = ["all", "daily", "work", "meetings", "friends", "texting", "feedback", "networking", "travel", "food"];
+      const discovered = [...new Set(allLessons.flatMap((lesson) => lesson.items.flatMap((item) => item.tags)))].sort();
+      const tags = ["all", ...preferred.filter((tag) => tag !== "all" && discovered.includes(tag)), ...discovered.filter((tag) => !preferred.includes(tag))];
+      filterChipBox.innerHTML = tags.map((tag) => `
+        <button class="chip ${tag === currentFilter ? "active" : ""}" type="button" data-filter="${tag}">${tag}</button>
+      `).join("");
+    }
+
+    function updateHero() {
+      const latest = allLessons[0];
+      lessons = latest.items;
+      lessonKicker.textContent = latest.date;
+      lessonTitle.textContent = latest.title;
+      lessonDescription.textContent = latest.description || "今天的自然口语练习已经更新。";
+    }
+
+    async function loadLessons() {
+      try {
+        const indexResponse = await fetch("lessons/index.json", { cache: "no-store" });
+        if (!indexResponse.ok) throw new Error("Missing lessons index");
+        const index = await indexResponse.json();
+        const loaded = await Promise.all(index.lessons.map(async (entry) => {
+          const response = await fetch(`lessons/${entry.file}`, { cache: "no-store" });
+          if (!response.ok) throw new Error(`Missing lesson ${entry.file}`);
+          return response.json();
+        }));
+        if (loaded.length > 0) {
+          allLessons = loaded.sort((a, b) => b.date.localeCompare(a.date));
+        }
+      } catch (error) {
+        console.warn("Using embedded fallback lessons.", error);
+      }
+      updateHero();
+      renderFilters();
+      render(currentFilter);
+    }
+
+    loadLessons();
   </script>
 </body>
 </html>

@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-14",
+  "title": "Sound Natural Without Sounding Too Casual",
+  "description": "今天练的是工作和朋友聊天都能用的柔和推进：不催、不硬，但能把事情往前带。",
+  "items": [
+    {
+      "id": "2026-06-14-aligned",
+      "phrase": "Just to make sure we're aligned...",
+      "tone": "专业但自然",
+      "tags": ["work", "meetings"],
+      "cn": "用来确认双方理解一致。比直接说 “Do you understand?” 礼貌很多，也更像真实会议用语。",
+      "examples": [
+        "Just to make sure we're aligned, the first draft is due this Friday, right?",
+        "Just to make sure we're aligned, we're prioritizing speed over polish for this version.",
+        "Just to make sure we're aligned, I'll handle the slides and you'll send over the numbers."
+      ],
+      "dialogue": [
+        ["A", "Just to make sure we're aligned, we're not launching this week, right?"],
+        ["B", "Right. We're aiming for next Tuesday now."],
+        ["A", "Got it. I'll update the timeline."]
+      ]
+    },
+    {
+      "id": "2026-06-14-no-pressure",
+      "phrase": "No pressure, but...",
+      "tone": "轻松提醒",
+      "tags": ["daily", "friends", "texting"],
+      "cn": "字面是“没有压力”，实际常用来温和提醒或邀请。朋友、同事都能用，但后面不要接特别强硬的要求。",
+      "examples": [
+        "No pressure, but if you have time today, could you take a quick look?",
+        "No pressure, but we're grabbing coffee downstairs if you want to join.",
+        "No pressure, but I think you'd really like this place."
+      ],
+      "dialogue": [
+        ["A", "No pressure, but we're doing dinner around seven if you're free."],
+        ["B", "That actually sounds nice. Where are you going?"],
+        ["A", "A Thai place near the office."]
+      ]
+    },
+    {
+      "id": "2026-06-14-not-married",
+      "phrase": "I'm not married to it.",
+      "tone": "开放讨论",
+      "tags": ["work", "meetings"],
+      "cn": "意思是“我不是非坚持这个方案不可”。很适合提方案时降低压迫感。",
+      "examples": [
+        "I put together a rough outline, but I'm not married to it.",
+        "We could lead with the pricing slide, but I'm not married to it.",
+        "I'm not married to this wording, so feel free to tweak it."
+      ],
+      "dialogue": [
+        ["A", "I moved the customer story to the beginning. I'm not married to it, though."],
+        ["B", "I actually like it there. It makes the deck feel more concrete."],
+        ["A", "Great, let's keep it for now."]
+      ]
+    },
+    {
+      "id": "2026-06-14-tracks",
+      "phrase": "That tracks.",
+      "tone": "随意认同",
+      "tags": ["daily", "friends"],
+      "cn": "意思是“说得通 / 符合逻辑 / 难怪”。朋友聊天很常见，工作里熟悉的同事之间也可以用。",
+      "examples": [
+        "You only slept four hours? That tracks.",
+        "They moved the deadline again? Yeah, that tracks.",
+        "You liked the quiet cafe more than the fancy one? That tracks."
+      ],
+      "dialogue": [
+        ["A", "I thought I'd hate the networking event, but it was actually useful."],
+        ["B", "That tracks. You're good in small groups."],
+        ["A", "Apparently I just hate loud rooms."]
+      ]
+    }
+  ]
+}
