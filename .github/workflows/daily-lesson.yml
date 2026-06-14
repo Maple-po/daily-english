@@ -1,0 +1,45 @@
+name: Generate daily English lesson
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+    inputs:
+      lesson_date:
+        description: "Optional date to generate, formatted as YYYY-MM-DD"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate lesson
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
+          LESSON_DATE: ${{ inputs.lesson_date }}
+        run: node scripts/generate-lesson.mjs
+
+      - name: Commit updated lesson files
+        run: |
+          git config user.name "daily-english-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add lessons
+          if git diff --cached --quiet; then
+            echo "No lesson changes to commit."
+          else
+            git commit -m "Add daily English lesson"
+            git push
+          fi
