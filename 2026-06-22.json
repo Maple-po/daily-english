@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-22",
+  "title": "Handling Mild Disagreement",
+  "description": "今天练习轻轻不同意.",
+  "items": [
+    {
+      "id": "2026-06-22-i-hear-you-but",
+      "phrase": "I hear you, but...",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I hear you, but... We can decide after we have more context.",
+        "I hear you, but... I just want to make sure we're being practical.",
+        "I hear you, but... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I hear you, but..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-22-i-wouldn-t-put-it-that-way",
+      "phrase": "I wouldn't put it that way.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "I wouldn't put it that way. We can decide after we have more context.",
+        "I wouldn't put it that way. I just want to make sure we're being practical.",
+        "I wouldn't put it that way. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I wouldn't put it that way."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-22-i-m-not-sure-that-s-the-best-read",
+      "phrase": "I'm not sure that's the best read.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm not sure that's the best read. We can decide after we have more context.",
+        "I'm not sure that's the best read. I just want to make sure we're being practical.",
+        "I'm not sure that's the best read. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm not sure that's the best read."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-22-there-may-be-another-way-to-look-at-it",
+      "phrase": "There may be another way to look at it.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "There may be another way to look at it. We can decide after we have more context.",
+        "There may be another way to look at it. I just want to make sure we're being practical.",
+        "There may be another way to look at it. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "There may be another way to look at it."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-22-i-m-with-you-up-to-a-point",
+      "phrase": "I'm with you up to a point.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm with you up to a point. We can decide after we have more context.",
+        "I'm with you up to a point. I just want to make sure we're being practical.",
+        "I'm with you up to a point. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm with you up to a point."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

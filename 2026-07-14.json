@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-14",
+  "title": "Polished Everyday English",
+  "description": "今天练习高频自然表达复盘.",
+  "items": [
+    {
+      "id": "2026-07-14-i-m-good-either-way",
+      "phrase": "I'm good either way.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "两个选择都可以，语气轻松自然.",
+      "examples": [
+        "I'm good either way. We can decide after we have more context.",
+        "I'm good either way. I just want to make sure we're being practical.",
+        "I'm good either way. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm good either way."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-14-let-s-not-make-it-a-whole-thing",
+      "phrase": "Let's not make it a whole thing.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let's not make it a whole thing. We can decide after we have more context.",
+        "Let's not make it a whole thing. I just want to make sure we're being practical.",
+        "Let's not make it a whole thing. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's not make it a whole thing."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-14-that-came-out-wrong",
+      "phrase": "That came out wrong.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "That came out wrong. We can decide after we have more context.",
+        "That came out wrong. I just want to make sure we're being practical.",
+        "That came out wrong. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That came out wrong."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-14-i-didn-t-mean-it-that-way",
+      "phrase": "I didn't mean it that way.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "I didn't mean it that way. We can decide after we have more context.",
+        "I didn't mean it that way. I just want to make sure we're being practical.",
+        "I didn't mean it that way. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I didn't mean it that way."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-14-we-re-on-the-same-page",
+      "phrase": "We're on the same page.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "We're on the same page. We can decide after we have more context.",
+        "We're on the same page. I just want to make sure we're being practical.",
+        "We're on the same page. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We're on the same page."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

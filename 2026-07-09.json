@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-09",
+  "title": "Handling Uncertainty",
+  "description": "今天练习不确定时怎么说.",
+  "items": [
+    {
+      "id": "2026-07-09-i-m-not-sure-yet",
+      "phrase": "I'm not sure yet.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm not sure yet. We can decide after we have more context.",
+        "I'm not sure yet. I just want to make sure we're being practical.",
+        "I'm not sure yet. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm not sure yet."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-09-it-s-still-up-in-the-air",
+      "phrase": "It's still up in the air.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "It's still up in the air. We can decide after we have more context.",
+        "It's still up in the air. I just want to make sure we're being practical.",
+        "It's still up in the air. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "It's still up in the air."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-09-we-ll-know-more-soon",
+      "phrase": "We'll know more soon.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "We'll know more soon. We can decide after we have more context.",
+        "We'll know more soon. I just want to make sure we're being practical.",
+        "We'll know more soon. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We'll know more soon."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-09-there-are-a-few-unknowns",
+      "phrase": "There are a few unknowns.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "There are a few unknowns. We can decide after we have more context.",
+        "There are a few unknowns. I just want to make sure we're being practical.",
+        "There are a few unknowns. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "There are a few unknowns."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-09-let-s-not-overcommit-yet",
+      "phrase": "Let's not overcommit yet.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let's not overcommit yet. We can decide after we have more context.",
+        "Let's not overcommit yet. I just want to make sure we're being practical.",
+        "Let's not overcommit yet. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's not overcommit yet."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

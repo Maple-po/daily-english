@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-30",
+  "title": "Clarifying Without Sounding Lost",
+  "description": "今天练习澄清问题.",
+  "items": [
+    {
+      "id": "2026-06-30-can-you-walk-me-through-that",
+      "phrase": "Can you walk me through that?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Can you walk me through that? We can decide after we have more context.",
+        "Can you walk me through that? I just want to make sure we're being practical.",
+        "Can you walk me through that? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Can you walk me through that?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-30-what-do-you-mean-by-that-exactly",
+      "phrase": "What do you mean by that exactly?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "What do you mean by that exactly? We can decide after we have more context.",
+        "What do you mean by that exactly? I just want to make sure we're being practical.",
+        "What do you mean by that exactly? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What do you mean by that exactly?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-30-just-so-i-m-clear",
+      "phrase": "Just so I'm clear...",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Just so I'm clear... We can decide after we have more context.",
+        "Just so I'm clear... I just want to make sure we're being practical.",
+        "Just so I'm clear... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Just so I'm clear..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-30-can-you-give-me-an-example",
+      "phrase": "Can you give me an example?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "Can you give me an example? We can decide after we have more context.",
+        "Can you give me an example? I just want to make sure we're being practical.",
+        "Can you give me an example? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Can you give me an example?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-30-i-want-to-make-sure-i-understand",
+      "phrase": "I want to make sure I understand.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I want to make sure I understand. We can decide after we have more context.",
+        "I want to make sure I understand. I just want to make sure we're being practical.",
+        "I want to make sure I understand. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I want to make sure I understand."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

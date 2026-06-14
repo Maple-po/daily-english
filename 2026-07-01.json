@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-01",
+  "title": "Saying No Politely",
+  "description": "今天练习拒绝但不生硬.",
+  "items": [
+    {
+      "id": "2026-07-01-i-don-t-think-i-can-swing-that",
+      "phrase": "I don't think I can swing that.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "表示自己这次安排不过来，比 I can't 更柔和.",
+      "examples": [
+        "I don't think I can swing that. We can decide after we have more context.",
+        "I don't think I can swing that. I just want to make sure we're being practical.",
+        "I don't think I can swing that. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I don't think I can swing that."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-01-i-ll-have-to-pass-this-time",
+      "phrase": "I'll have to pass this time.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'll have to pass this time. We can decide after we have more context.",
+        "I'll have to pass this time. I just want to make sure we're being practical.",
+        "I'll have to pass this time. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'll have to pass this time."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-01-that-won-t-work-for-me-unfortunately",
+      "phrase": "That won't work for me, unfortunately.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "That won't work for me, unfortunately. We can decide after we have more context.",
+        "That won't work for me, unfortunately. I just want to make sure we're being practical.",
+        "That won't work for me, unfortunately. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That won't work for me, unfortunately."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-01-i-wish-i-could-but",
+      "phrase": "I wish I could, but...",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "I wish I could, but... We can decide after we have more context.",
+        "I wish I could, but... I just want to make sure we're being practical.",
+        "I wish I could, but... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I wish I could, but..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-01-can-we-find-another-option",
+      "phrase": "Can we find another option?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Can we find another option? We can decide after we have more context.",
+        "Can we find another option? I just want to make sure we're being practical.",
+        "Can we find another option? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Can we find another option?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

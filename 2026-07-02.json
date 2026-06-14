@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-02",
+  "title": "Prioritizing Work",
+  "description": "今天练习讨论优先级.",
+  "items": [
+    {
+      "id": "2026-07-02-what-s-the-priority-here",
+      "phrase": "What's the priority here?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "What's the priority here? We can decide after we have more context.",
+        "What's the priority here? I just want to make sure we're being practical.",
+        "What's the priority here? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What's the priority here?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-02-this-feels-more-urgent-than-important",
+      "phrase": "This feels more urgent than important.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "This feels more urgent than important. We can decide after we have more context.",
+        "This feels more urgent than important. I just want to make sure we're being practical.",
+        "This feels more urgent than important. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "This feels more urgent than important."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-02-let-s-tackle-the-biggest-risk-first",
+      "phrase": "Let's tackle the biggest risk first.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let's tackle the biggest risk first. We can decide after we have more context.",
+        "Let's tackle the biggest risk first. I just want to make sure we're being practical.",
+        "Let's tackle the biggest risk first. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's tackle the biggest risk first."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-02-i-don-t-want-this-to-slip",
+      "phrase": "I don't want this to slip.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "I don't want this to slip. We can decide after we have more context.",
+        "I don't want this to slip. I just want to make sure we're being practical.",
+        "I don't want this to slip. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I don't want this to slip."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-02-we-may-need-to-trade-something-off",
+      "phrase": "We may need to trade something off.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "We may need to trade something off. We can decide after we have more context.",
+        "We may need to trade something off. I just want to make sure we're being practical.",
+        "We may need to trade something off. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We may need to trade something off."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

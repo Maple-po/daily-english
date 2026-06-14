@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-06",
+  "title": "Explaining A Delay",
+  "description": "今天练习解释延迟.",
+  "items": [
+    {
+      "id": "2026-07-06-this-is-taking-longer-than-expected",
+      "phrase": "This is taking longer than expected.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "This is taking longer than expected. We can decide after we have more context.",
+        "This is taking longer than expected. I just want to make sure we're being practical.",
+        "This is taking longer than expected. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "This is taking longer than expected."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-06-i-hit-a-snag",
+      "phrase": "I hit a snag.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "I hit a snag. We can decide after we have more context.",
+        "I hit a snag. I just want to make sure we're being practical.",
+        "I hit a snag. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I hit a snag."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-06-i-m-waiting-on-one-more-thing",
+      "phrase": "I'm waiting on one more thing.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm waiting on one more thing. We can decide after we have more context.",
+        "I'm waiting on one more thing. I just want to make sure we're being practical.",
+        "I'm waiting on one more thing. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm waiting on one more thing."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-06-i-should-have-an-update-soon",
+      "phrase": "I should have an update soon.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "I should have an update soon. We can decide after we have more context.",
+        "I should have an update soon. I just want to make sure we're being practical.",
+        "I should have an update soon. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I should have an update soon."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-06-thanks-for-bearing-with-me",
+      "phrase": "Thanks for bearing with me.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Thanks for bearing with me. We can decide after we have more context.",
+        "Thanks for bearing with me. I just want to make sure we're being practical.",
+        "Thanks for bearing with me. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Thanks for bearing with me."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

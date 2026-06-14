@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-26",
+  "title": "Mood And Energy",
+  "description": "今天练习表达状态.",
+  "items": [
+    {
+      "id": "2026-06-26-i-m-a-little-out-of-it-today",
+      "phrase": "I'm a little out of it today.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm a little out of it today. We can decide after we have more context.",
+        "I'm a little out of it today. I just want to make sure we're being practical.",
+        "I'm a little out of it today. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm a little out of it today."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-26-i-m-running-on-fumes",
+      "phrase": "I'm running on fumes.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "表示已经很累、靠最后一点能量撑着，朋友和熟同事间常用.",
+      "examples": [
+        "I'm running on fumes. We can decide after we have more context.",
+        "I'm running on fumes. I just want to make sure we're being practical.",
+        "I'm running on fumes. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm running on fumes."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-26-i-need-a-reset",
+      "phrase": "I need a reset.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I need a reset. We can decide after we have more context.",
+        "I need a reset. I just want to make sure we're being practical.",
+        "I need a reset. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I need a reset."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-26-i-m-feeling-pretty-good-about-it",
+      "phrase": "I'm feeling pretty good about it.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm feeling pretty good about it. We can decide after we have more context.",
+        "I'm feeling pretty good about it. I just want to make sure we're being practical.",
+        "I'm feeling pretty good about it. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm feeling pretty good about it."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-26-that-took-more-out-of-me-than-i-expected",
+      "phrase": "That took more out of me than I expected.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "That took more out of me than I expected. We can decide after we have more context.",
+        "That took more out of me than I expected. I just want to make sure we're being practical.",
+        "That took more out of me than I expected. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That took more out of me than I expected."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

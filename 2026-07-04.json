@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-04",
+  "title": "Reacting To Bad News",
+  "description": "今天练习回应坏消息.",
+  "items": [
+    {
+      "id": "2026-07-04-i-m-sorry-to-hear-that",
+      "phrase": "I'm sorry to hear that.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm sorry to hear that. We can decide after we have more context.",
+        "I'm sorry to hear that. I just want to make sure we're being practical.",
+        "I'm sorry to hear that. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm sorry to hear that."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-04-that-sounds-really-frustrating",
+      "phrase": "That sounds really frustrating.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "That sounds really frustrating. We can decide after we have more context.",
+        "That sounds really frustrating. I just want to make sure we're being practical.",
+        "That sounds really frustrating. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That sounds really frustrating."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-04-do-you-want-to-talk-about-it",
+      "phrase": "Do you want to talk about it?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Do you want to talk about it? We can decide after we have more context.",
+        "Do you want to talk about it? I just want to make sure we're being practical.",
+        "Do you want to talk about it? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Do you want to talk about it?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-04-that-s-rough",
+      "phrase": "That's rough.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "That's rough. We can decide after we have more context.",
+        "That's rough. I just want to make sure we're being practical.",
+        "That's rough. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That's rough."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-04-let-me-know-what-you-need",
+      "phrase": "Let me know what you need.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let me know what you need. We can decide after we have more context.",
+        "Let me know what you need. I just want to make sure we're being practical.",
+        "Let me know what you need. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let me know what you need."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

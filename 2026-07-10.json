@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-10",
+  "title": "Customer Or Client Talk",
+  "description": "今天练习客户沟通.",
+  "items": [
+    {
+      "id": "2026-07-10-thanks-for-the-context",
+      "phrase": "Thanks for the context.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Thanks for the context. We can decide after we have more context.",
+        "Thanks for the context. I just want to make sure we're being practical.",
+        "Thanks for the context. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Thanks for the context."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-10-we-ll-take-a-look-and-get-back-to-you",
+      "phrase": "We'll take a look and get back to you.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "We'll take a look and get back to you. We can decide after we have more context.",
+        "We'll take a look and get back to you. I just want to make sure we're being practical.",
+        "We'll take a look and get back to you. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We'll take a look and get back to you."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-10-that-s-helpful-to-know",
+      "phrase": "That's helpful to know.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "That's helpful to know. We can decide after we have more context.",
+        "That's helpful to know. I just want to make sure we're being practical.",
+        "That's helpful to know. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That's helpful to know."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-10-can-you-share-a-bit-more-detail",
+      "phrase": "Can you share a bit more detail?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "Can you share a bit more detail? We can decide after we have more context.",
+        "Can you share a bit more detail? I just want to make sure we're being practical.",
+        "Can you share a bit more detail? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Can you share a bit more detail?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-10-we-ll-keep-you-posted",
+      "phrase": "We'll keep you posted.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "We'll keep you posted. We can decide after we have more context.",
+        "We'll keep you posted. I just want to make sure we're being practical.",
+        "We'll keep you posted. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We'll keep you posted."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-03",
+  "title": "Reacting To Good News",
+  "description": "今天练习回应好消息.",
+  "items": [
+    {
+      "id": "2026-07-03-that-s-huge",
+      "phrase": "That's huge.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "That's huge. We can decide after we have more context.",
+        "That's huge. I just want to make sure we're being practical.",
+        "That's huge. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That's huge."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-03-i-m-really-happy-for-you",
+      "phrase": "I'm really happy for you.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm really happy for you. We can decide after we have more context.",
+        "I'm really happy for you. I just want to make sure we're being practical.",
+        "I'm really happy for you. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm really happy for you."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-03-you-must-be-relieved",
+      "phrase": "You must be relieved.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "You must be relieved. We can decide after we have more context.",
+        "You must be relieved. I just want to make sure we're being practical.",
+        "You must be relieved. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "You must be relieved."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-03-that-s-a-big-win",
+      "phrase": "That's a big win.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "That's a big win. We can decide after we have more context.",
+        "That's a big win. I just want to make sure we're being practical.",
+        "That's a big win. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That's a big win."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-03-you-earned-it",
+      "phrase": "You earned it.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "You earned it. We can decide after we have more context.",
+        "You earned it. I just want to make sure we're being practical.",
+        "You earned it. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "You earned it."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

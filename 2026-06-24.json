@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-24",
+  "title": "Meetings: Keeping Things Moving",
+  "description": "今天练习推进会议.",
+  "items": [
+    {
+      "id": "2026-06-24-let-s-keep-this-moving",
+      "phrase": "Let's keep this moving.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let's keep this moving. We can decide after we have more context.",
+        "Let's keep this moving. I just want to make sure we're being practical.",
+        "Let's keep this moving. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's keep this moving."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-24-can-we-come-back-to-that",
+      "phrase": "Can we come back to that?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "Can we come back to that? We can decide after we have more context.",
+        "Can we come back to that? I just want to make sure we're being practical.",
+        "Can we come back to that? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Can we come back to that?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-24-let-s-park-that-for-now",
+      "phrase": "Let's park that for now.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "会议里先把某个话题放一放，之后再说.",
+      "examples": [
+        "Let's park that for now. We can decide after we have more context.",
+        "Let's park that for now. I just want to make sure we're being practical.",
+        "Let's park that for now. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's park that for now."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-24-what-s-the-next-step-here",
+      "phrase": "What's the next step here?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "What's the next step here? We can decide after we have more context.",
+        "What's the next step here? I just want to make sure we're being practical.",
+        "What's the next step here? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What's the next step here?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-24-who-owns-this",
+      "phrase": "Who owns this?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Who owns this? We can decide after we have more context.",
+        "Who owns this? I just want to make sure we're being practical.",
+        "Who owns this? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Who owns this?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

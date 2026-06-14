@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-11",
+  "title": "Casual Work Chat",
+  "description": "今天练习办公室闲聊.",
+  "items": [
+    {
+      "id": "2026-07-11-how-s-your-day-looking",
+      "phrase": "How's your day looking?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "How's your day looking? We can decide after we have more context.",
+        "How's your day looking? I just want to make sure we're being practical.",
+        "How's your day looking? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "How's your day looking?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-11-busy-day",
+      "phrase": "Busy day?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "Busy day? We can decide after we have more context.",
+        "Busy day? I just want to make sure we're being practical.",
+        "Busy day? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Busy day?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-11-did-you-get-a-chance-to-breathe",
+      "phrase": "Did you get a chance to breathe?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Did you get a chance to breathe? We can decide after we have more context.",
+        "Did you get a chance to breathe? I just want to make sure we're being practical.",
+        "Did you get a chance to breathe? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Did you get a chance to breathe?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-11-i-m-grabbing-coffee-want-anything",
+      "phrase": "I'm grabbing coffee. Want anything?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm grabbing coffee. Want anything? We can decide after we have more context.",
+        "I'm grabbing coffee. Want anything? I just want to make sure we're being practical.",
+        "I'm grabbing coffee. Want anything? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm grabbing coffee. Want anything?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-11-we-re-almost-there",
+      "phrase": "We're almost there.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "We're almost there. We can decide after we have more context.",
+        "We're almost there. I just want to make sure we're being practical.",
+        "We're almost there. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We're almost there."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

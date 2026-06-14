@@ -1,0 +1,149 @@
+{
+  "date": "2026-06-15",
+  "title": "Following Up Without Sounding Pushy",
+  "description": "今天练习温和跟进：提醒别人、确认进度，但不显得咄咄逼人.",
+  "items": [
+    {
+      "id": "2026-06-15-just-checking-in",
+      "phrase": "Just checking in.",
+      "tone": "轻轻问一下进展",
+      "tags": [
+        "work",
+        "texting"
+      ],
+      "cn": "用来发消息或邮件跟进，比直接催促柔和.",
+      "examples": [
+        "Just checking in to see if you had a chance to look at this.",
+        "Just checking in. Are we still good for tomorrow?",
+        "Just checking in on the timeline for this."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Just checking in. Are we still meeting at three?"
+        ],
+        [
+          "B",
+          "Yes, three still works."
+        ],
+        [
+          "A",
+          "Perfect, see you then."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-15-no-rush-but",
+      "phrase": "No rush, but...",
+      "tone": "温和提醒",
+      "tags": [
+        "daily",
+        "work",
+        "texting"
+      ],
+      "cn": "表示不想施压，但希望对方注意到这件事.",
+      "examples": [
+        "No rush, but could you send it over when you get a chance?",
+        "No rush, but I wanted to make sure this didn't get buried.",
+        "No rush, but do you have a rough timeline?"
+      ],
+      "dialogue": [
+        [
+          "A",
+          "No rush, but do you have a rough timeline for the draft?"
+        ],
+        [
+          "B",
+          "I can get it to you by Thursday."
+        ],
+        [
+          "A",
+          "Great, that works."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-15-when-you-get-a-chance",
+      "phrase": "When you get a chance...",
+      "tone": "你方便的时候",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "礼貌地请求别人做一件事，很高频.",
+      "examples": [
+        "When you get a chance, could you review the doc?",
+        "Can you send me the link when you get a chance?",
+        "When you get a chance, let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "When you get a chance, could you take a look at the notes?"
+        ],
+        [
+          "B",
+          "Sure. I'll check them after lunch."
+        ],
+        [
+          "A",
+          "Thanks, appreciate it."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-15-i-just-wanted-to-flag-this",
+      "phrase": "I just wanted to flag this.",
+      "tone": "提醒大家注意",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "适合指出风险、变化或需要注意的点，不带责备感.",
+      "examples": [
+        "I just wanted to flag this before the meeting.",
+        "I just wanted to flag that the numbers may change.",
+        "I just wanted to flag a possible issue with the timeline."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I just wanted to flag that the client hasn't confirmed the date yet."
+        ],
+        [
+          "B",
+          "Good point. Let's not announce anything until they do."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-15-that-works-for-me",
+      "phrase": "That works for me.",
+      "tone": "我这边可以",
+      "tags": [
+        "daily",
+        "work"
+      ],
+      "cn": "比 OK 更自然完整，安排时间地点时很好用.",
+      "examples": [
+        "Tuesday afternoon works for me.",
+        "That works for me if it works for you.",
+        "Either option works for me."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Would 10:30 be okay?"
+        ],
+        [
+          "B",
+          "Yeah, that works for me."
+        ],
+        [
+          "A",
+          "Great, I'll send an invite."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-21",
+  "title": "Texting Like A Real Person",
+  "description": "今天练习消息里的自然短句.",
+  "items": [
+    {
+      "id": "2026-06-21-sounds-good-to-me",
+      "phrase": "Sounds good to me.",
+      "tone": "我觉得可以",
+      "tags": [
+        "texting",
+        "daily"
+      ],
+      "cn": "比 OK 更自然.",
+      "examples": [
+        "Sounds good to me.",
+        "Sounds good to me if everyone else is okay with it.",
+        "That sounds good to me."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's meet at the lobby."
+        ],
+        [
+          "B",
+          "Sounds good to me."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-21-i-m-on-my-way",
+      "phrase": "I'm on my way.",
+      "tone": "我在路上了",
+      "tags": [
+        "texting",
+        "daily"
+      ],
+      "cn": "日常必备.",
+      "examples": [
+        "I'm on my way now.",
+        "I'm on my way. Be there in ten.",
+        "I'm on my way, but traffic is bad."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Where are you?"
+        ],
+        [
+          "B",
+          "I'm on my way."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-21-running-a-bit-late",
+      "phrase": "Running a bit late.",
+      "tone": "我会晚一点",
+      "tags": [
+        "texting",
+        "daily"
+      ],
+      "cn": "很自然的迟到通知.",
+      "examples": [
+        "Running a bit late, sorry.",
+        "I'm running a bit late but I'll be there soon.",
+        "Running a bit late. Start without me if needed."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Are you close?"
+        ],
+        [
+          "B",
+          "Running a bit late, sorry."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-21-can-i-get-back-to-you-on-that",
+      "phrase": "Can I get back to you on that?",
+      "tone": "我晚点回复你可以吗",
+      "tags": [
+        "texting",
+        "work"
+      ],
+      "cn": "需要时间考虑时用.",
+      "examples": [
+        "Can I get back to you on that later today?",
+        "Can I get back to you after I check?",
+        "Can I get back to you tomorrow?"
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Do you know if Friday works?"
+        ],
+        [
+          "B",
+          "Can I get back to you on that?"
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-21-totally-forgot-to-reply",
+      "phrase": "Totally forgot to reply.",
+      "tone": "我完全忘回了",
+      "tags": [
+        "texting",
+        "friends"
+      ],
+      "cn": "朋友间承认漏回消息.",
+      "examples": [
+        "Totally forgot to reply, sorry.",
+        "I totally forgot to reply to this.",
+        "Sorry, I saw this and totally forgot to reply."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "No worries, just checking."
+        ],
+        [
+          "B",
+          "Totally forgot to reply. My bad."
+        ]
+      ]
+    }
+  ]
+}

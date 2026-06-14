@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-20",
+  "title": "Catching Up With Friends",
+  "description": "今天练习朋友间自然寒暄和更新近况.",
+  "items": [
+    {
+      "id": "2026-06-20-how-have-you-been-holding-up",
+      "phrase": "How have you been holding up?",
+      "tone": "你最近还撑得住吗",
+      "tags": [
+        "friends",
+        "daily"
+      ],
+      "cn": "比 How are you 更关心一点.",
+      "examples": [
+        "How have you been holding up with work?",
+        "How have you been holding up lately?",
+        "How have you been holding up after the move?"
+      ],
+      "dialogue": [
+        [
+          "A",
+          "How have you been holding up?"
+        ],
+        [
+          "B",
+          "Honestly, busy, but okay."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-20-i-ve-been-meaning-to-text-you",
+      "phrase": "I've been meaning to text you.",
+      "tone": "我一直想给你发消息",
+      "tags": [
+        "friends",
+        "texting"
+      ],
+      "cn": "适合久未联系.",
+      "examples": [
+        "I've been meaning to text you all week.",
+        "I've been meaning to text you about that restaurant.",
+        "I've been meaning to check in."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I've been meaning to text you."
+        ],
+        [
+          "B",
+          "Same. This week got away from me."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-20-what-s-new-with-you",
+      "phrase": "What's new with you?",
+      "tone": "你最近有什么新鲜事",
+      "tags": [
+        "friends",
+        "daily"
+      ],
+      "cn": "比 What happened 更自然开放.",
+      "examples": [
+        "What's new with you these days?",
+        "So what's new with you?",
+        "Anything new with you lately?"
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What's new with you?"
+        ],
+        [
+          "B",
+          "Not much, just trying to survive June."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-20-that-sounds-like-a-lot",
+      "phrase": "That sounds like a lot.",
+      "tone": "听起来挺累/挺多事",
+      "tags": [
+        "friends",
+        "daily"
+      ],
+      "cn": "回应别人压力时很好用.",
+      "examples": [
+        "That sounds like a lot. Are you okay?",
+        "That sounds like a lot to deal with.",
+        "That sounds like a lot for one week."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I had three deadlines and a family thing."
+        ],
+        [
+          "B",
+          "That sounds like a lot."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-20-i-m-glad-you-told-me",
+      "phrase": "I'm glad you told me.",
+      "tone": "谢谢你跟我说",
+      "tags": [
+        "friends",
+        "daily"
+      ],
+      "cn": "温暖地回应别人分享.",
+      "examples": [
+        "I'm glad you told me.",
+        "I'm glad you brought it up.",
+        "I'm glad you said something."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I didn't know if I should mention it."
+        ],
+        [
+          "B",
+          "I'm glad you told me."
+        ]
+      ]
+    }
+  ]
+}

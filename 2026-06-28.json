@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-28",
+  "title": "Travel And Logistics",
+  "description": "今天练习旅行和路线.",
+  "items": [
+    {
+      "id": "2026-06-28-what-s-the-best-way-to-get-there",
+      "phrase": "What's the best way to get there?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "What's the best way to get there? We can decide after we have more context.",
+        "What's the best way to get there? I just want to make sure we're being practical.",
+        "What's the best way to get there? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What's the best way to get there?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-28-how-far-is-it-from-here",
+      "phrase": "How far is it from here?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "How far is it from here? We can decide after we have more context.",
+        "How far is it from here? I just want to make sure we're being practical.",
+        "How far is it from here? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "How far is it from here?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-28-i-might-need-to-check-in-first",
+      "phrase": "I might need to check in first.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I might need to check in first. We can decide after we have more context.",
+        "I might need to check in first. I just want to make sure we're being practical.",
+        "I might need to check in first. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I might need to check in first."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-28-let-s-leave-some-buffer",
+      "phrase": "Let's leave some buffer.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let's leave some buffer. We can decide after we have more context.",
+        "Let's leave some buffer. I just want to make sure we're being practical.",
+        "Let's leave some buffer. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's leave some buffer."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-28-the-timing-is-a-little-tight",
+      "phrase": "The timing is a little tight.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "The timing is a little tight. We can decide after we have more context.",
+        "The timing is a little tight. I just want to make sure we're being practical.",
+        "The timing is a little tight. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "The timing is a little tight."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

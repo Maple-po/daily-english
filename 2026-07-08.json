@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-08",
+  "title": "Sharing Preferences",
+  "description": "今天练习表达偏好.",
+  "items": [
+    {
+      "id": "2026-07-08-i-d-rather-keep-it-simple",
+      "phrase": "I'd rather keep it simple.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'd rather keep it simple. We can decide after we have more context.",
+        "I'd rather keep it simple. I just want to make sure we're being practical.",
+        "I'd rather keep it simple. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'd rather keep it simple."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-08-i-m-more-of-a-morning-person",
+      "phrase": "I'm more of a morning person.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm more of a morning person. We can decide after we have more context.",
+        "I'm more of a morning person. I just want to make sure we're being practical.",
+        "I'm more of a morning person. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm more of a morning person."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-08-i-prefer-something-low-key",
+      "phrase": "I prefer something low-key.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I prefer something low-key. We can decide after we have more context.",
+        "I prefer something low-key. I just want to make sure we're being practical.",
+        "I prefer something low-key. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I prefer something low-key."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-08-that-s-not-really-my-thing",
+      "phrase": "That's not really my thing.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "That's not really my thing. We can decide after we have more context.",
+        "That's not really my thing. I just want to make sure we're being practical.",
+        "That's not really my thing. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That's not really my thing."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-08-i-m-open-to-either",
+      "phrase": "I'm open to either.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm open to either. We can decide after we have more context.",
+        "I'm open to either. I just want to make sure we're being practical.",
+        "I'm open to either. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm open to either."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

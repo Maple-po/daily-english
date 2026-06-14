@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-25",
+  "title": "Work Updates",
+  "description": "今天练习更新进展.",
+  "items": [
+    {
+      "id": "2026-06-25-quick-update-on-my-end",
+      "phrase": "Quick update on my end.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Quick update on my end. We can decide after we have more context.",
+        "Quick update on my end. I just want to make sure we're being practical.",
+        "Quick update on my end. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Quick update on my end."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-25-we-re-in-good-shape",
+      "phrase": "We're in good shape.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "We're in good shape. We can decide after we have more context.",
+        "We're in good shape. I just want to make sure we're being practical.",
+        "We're in good shape. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We're in good shape."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-25-there-are-a-couple-of-open-items",
+      "phrase": "There are a couple of open items.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "There are a couple of open items. We can decide after we have more context.",
+        "There are a couple of open items. I just want to make sure we're being practical.",
+        "There are a couple of open items. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "There are a couple of open items."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-25-i-m-still-waiting-on",
+      "phrase": "I'm still waiting on...",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm still waiting on... We can decide after we have more context.",
+        "I'm still waiting on... I just want to make sure we're being practical.",
+        "I'm still waiting on... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm still waiting on..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-25-i-ll-circle-back-once-i-know-more",
+      "phrase": "I'll circle back once I know more.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'll circle back once I know more. We can decide after we have more context.",
+        "I'll circle back once I know more. I just want to make sure we're being practical.",
+        "I'll circle back once I know more. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'll circle back once I know more."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-12",
+  "title": "Weekend Talk",
+  "description": "今天练习周末聊天.",
+  "items": [
+    {
+      "id": "2026-07-12-i-m-keeping-it-low-key",
+      "phrase": "I'm keeping it low-key.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm keeping it low-key. We can decide after we have more context.",
+        "I'm keeping it low-key. I just want to make sure we're being practical.",
+        "I'm keeping it low-key. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm keeping it low-key."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-12-i-might-just-recharge",
+      "phrase": "I might just recharge.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "I might just recharge. We can decide after we have more context.",
+        "I might just recharge. I just want to make sure we're being practical.",
+        "I might just recharge. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I might just recharge."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-12-i-m-trying-not-to-overplan",
+      "phrase": "I'm trying not to overplan.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm trying not to overplan. We can decide after we have more context.",
+        "I'm trying not to overplan. I just want to make sure we're being practical.",
+        "I'm trying not to overplan. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm trying not to overplan."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-12-that-sounds-like-my-kind-of-weekend",
+      "phrase": "That sounds like my kind of weekend.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "That sounds like my kind of weekend. We can decide after we have more context.",
+        "That sounds like my kind of weekend. I just want to make sure we're being practical.",
+        "That sounds like my kind of weekend. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That sounds like my kind of weekend."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-12-i-needed-that",
+      "phrase": "I needed that.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I needed that. We can decide after we have more context.",
+        "I needed that. I just want to make sure we're being practical.",
+        "I needed that. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I needed that."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-13",
+  "title": "Reviewing Decisions",
+  "description": "今天练习复盘决定.",
+  "items": [
+    {
+      "id": "2026-07-13-what-did-we-land-on",
+      "phrase": "What did we land on?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "What did we land on? We can decide after we have more context.",
+        "What did we land on? I just want to make sure we're being practical.",
+        "What did we land on? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What did we land on?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-13-let-s-recap-the-decision",
+      "phrase": "Let's recap the decision.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let's recap the decision. We can decide after we have more context.",
+        "Let's recap the decision. I just want to make sure we're being practical.",
+        "Let's recap the decision. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's recap the decision."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-13-the-main-takeaway-is",
+      "phrase": "The main takeaway is...",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "The main takeaway is... We can decide after we have more context.",
+        "The main takeaway is... I just want to make sure we're being practical.",
+        "The main takeaway is... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "The main takeaway is..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-13-are-we-all-good-with-that",
+      "phrase": "Are we all good with that?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "Are we all good with that? We can decide after we have more context.",
+        "Are we all good with that? I just want to make sure we're being practical.",
+        "Are we all good with that? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Are we all good with that?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-13-i-ll-write-this-up",
+      "phrase": "I'll write this up.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'll write this up. We can decide after we have more context.",
+        "I'll write this up. I just want to make sure we're being practical.",
+        "I'll write this up. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'll write this up."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

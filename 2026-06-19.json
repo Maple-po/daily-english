@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-19",
+  "title": "Feedback That Doesn't Sting",
+  "description": "今天练习给反馈：清楚、有用，但不刺人.",
+  "items": [
+    {
+      "id": "2026-06-19-one-thing-that-might-help-is",
+      "phrase": "One thing that might help is...",
+      "tone": "有个可能有帮助的点",
+      "tags": [
+        "feedback",
+        "work"
+      ],
+      "cn": "给建议时很温和.",
+      "examples": [
+        "One thing that might help is adding an example.",
+        "One thing that might help is shortening the intro.",
+        "One thing that might help is making the ask clearer."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Any thoughts on the draft?"
+        ],
+        [
+          "B",
+          "One thing that might help is moving the key point up."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-19-this-part-is-working-well",
+      "phrase": "This part is working well.",
+      "tone": "这部分挺有效",
+      "tags": [
+        "feedback",
+        "work"
+      ],
+      "cn": "先肯定具体优点.",
+      "examples": [
+        "This part is working well because it's concrete.",
+        "The opening is working well.",
+        "This example is working well."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Is the structure okay?"
+        ],
+        [
+          "B",
+          "This part is working well. The middle just needs tightening."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-19-i-wonder-if-we-could",
+      "phrase": "I wonder if we could...",
+      "tone": "我们能不能试着",
+      "tags": [
+        "feedback",
+        "meetings"
+      ],
+      "cn": "非常柔和的建议句型.",
+      "examples": [
+        "I wonder if we could simplify this slide.",
+        "I wonder if we could lead with the outcome.",
+        "I wonder if we could make this more specific."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "The slide feels crowded."
+        ],
+        [
+          "B",
+          "I wonder if we could split it into two."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-19-the-main-thing-i-d-tweak-is",
+      "phrase": "The main thing I'd tweak is...",
+      "tone": "我主要会改的是",
+      "tags": [
+        "feedback",
+        "work"
+      ],
+      "cn": "给出明确但不全面否定的修改意见.",
+      "examples": [
+        "The main thing I'd tweak is the headline.",
+        "The main thing I'd tweak is the order.",
+        "The main thing I'd tweak is the final sentence."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What would you change?"
+        ],
+        [
+          "B",
+          "The main thing I'd tweak is the call to action."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-19-this-might-be-clearer-if",
+      "phrase": "This might be clearer if...",
+      "tone": "如果这样可能更清楚",
+      "tags": [
+        "feedback",
+        "work"
+      ],
+      "cn": "适合修改文字、流程、说明.",
+      "examples": [
+        "This might be clearer if we add context.",
+        "This might be clearer if we remove that paragraph.",
+        "This might be clearer if we show the before and after."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Is this explanation too abstract?"
+        ],
+        [
+          "B",
+          "This might be clearer if we add a quick example."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-16",
+  "title": "Reacting Naturally in Conversation",
+  "description": "今天练习自然接话：不只是 yes/no，而是像真人一样回应.",
+  "items": [
+    {
+      "id": "2026-06-16-that-makes-sense",
+      "phrase": "That makes sense.",
+      "tone": "说得通",
+      "tags": [
+        "daily",
+        "work"
+      ],
+      "cn": "表示理解对方逻辑，安全高频.",
+      "examples": [
+        "That makes sense. I hadn't thought of it that way.",
+        "That makes sense given the timeline.",
+        "Yeah, that makes sense to me."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "We should wait until the numbers are final."
+        ],
+        [
+          "B",
+          "That makes sense. Let's hold off for now."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-16-fair-enough",
+      "phrase": "Fair enough.",
+      "tone": "可以理解",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "接受对方理由，但不一定完全同意.",
+      "examples": [
+        "Fair enough. I get why you'd prefer that.",
+        "Fair enough, let's do it your way.",
+        "Fair enough. The timing is tricky."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I don't really want to go out tonight."
+        ],
+        [
+          "B",
+          "Fair enough. We can just order in."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-16-that-s-kind-of-wild",
+      "phrase": "That's kind of wild.",
+      "tone": "有点离谱/挺夸张",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "自然表达惊讶，别在正式场合过度使用.",
+      "examples": [
+        "That's kind of wild that they changed it last minute.",
+        "That's kind of wild, but I believe it.",
+        "Wait, that's kind of wild."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "They moved the deadline again."
+        ],
+        [
+          "B",
+          "That's kind of wild. Didn't they just move it yesterday?"
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-16-i-can-see-that",
+      "phrase": "I can see that.",
+      "tone": "我能理解",
+      "tags": [
+        "daily",
+        "work"
+      ],
+      "cn": "表示能理解对方感受或观点.",
+      "examples": [
+        "I can see that. It does look confusing.",
+        "I can see why that would be frustrating.",
+        "I can see that being an issue later."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "The new process feels slower."
+        ],
+        [
+          "B",
+          "I can see that. It adds a few extra steps."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-16-honestly-same",
+      "phrase": "Honestly, same.",
+      "tone": "说真的，我也是",
+      "tags": [
+        "friends",
+        "daily"
+      ],
+      "cn": "朋友聊天里很自然的共鸣表达.",
+      "examples": [
+        "Honestly, same. I'm exhausted.",
+        "Honestly, same. I need a quiet weekend.",
+        "Honestly, same. That meeting took me out."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I don't want to make any decisions today."
+        ],
+        [
+          "B",
+          "Honestly, same. My brain is done."
+        ]
+      ]
+    }
+  ]
+}

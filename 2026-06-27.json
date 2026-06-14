@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-27",
+  "title": "Food And Plans",
+  "description": "今天练习吃饭和约饭.",
+  "items": [
+    {
+      "id": "2026-06-27-i-m-craving-something-spicy",
+      "phrase": "I'm craving something spicy.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm craving something spicy. We can decide after we have more context.",
+        "I'm craving something spicy. I just want to make sure we're being practical.",
+        "I'm craving something spicy. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm craving something spicy."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-27-i-m-not-picky",
+      "phrase": "I'm not picky.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm not picky. We can decide after we have more context.",
+        "I'm not picky. I just want to make sure we're being practical.",
+        "I'm not picky. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm not picky."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-27-let-s-grab-something-quick",
+      "phrase": "Let's grab something quick.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let's grab something quick. We can decide after we have more context.",
+        "Let's grab something quick. I just want to make sure we're being practical.",
+        "Let's grab something quick. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let's grab something quick."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-27-that-place-is-solid",
+      "phrase": "That place is solid.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "That place is solid. We can decide after we have more context.",
+        "That place is solid. I just want to make sure we're being practical.",
+        "That place is solid. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "That place is solid."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-27-i-m-good-with-whatever",
+      "phrase": "I'm good with whatever.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm good with whatever. We can decide after we have more context.",
+        "I'm good with whatever. I just want to make sure we're being practical.",
+        "I'm good with whatever. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm good with whatever."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

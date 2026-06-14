@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-07",
+  "title": "Asking For Help",
+  "description": "今天练习请求帮助.",
+  "items": [
+    {
+      "id": "2026-07-07-could-i-get-your-take-on-this",
+      "phrase": "Could I get your take on this?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Could I get your take on this? We can decide after we have more context.",
+        "Could I get your take on this? I just want to make sure we're being practical.",
+        "Could I get your take on this? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Could I get your take on this?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-07-do-you-have-a-minute-to-look-at-something",
+      "phrase": "Do you have a minute to look at something?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "Do you have a minute to look at something? We can decide after we have more context.",
+        "Do you have a minute to look at something? I just want to make sure we're being practical.",
+        "Do you have a minute to look at something? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Do you have a minute to look at something?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-07-i-m-stuck-on-one-piece",
+      "phrase": "I'm stuck on one piece.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'm stuck on one piece. We can decide after we have more context.",
+        "I'm stuck on one piece. I just want to make sure we're being practical.",
+        "I'm stuck on one piece. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'm stuck on one piece."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-07-could-you-sanity-check-this",
+      "phrase": "Could you sanity-check this?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "请别人帮你快速检查是否合理，很地道的工作表达.",
+      "examples": [
+        "Could you sanity-check this? We can decide after we have more context.",
+        "Could you sanity-check this? I just want to make sure we're being practical.",
+        "Could you sanity-check this? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Could you sanity-check this?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-07-i-could-use-a-second-pair-of-eyes",
+      "phrase": "I could use a second pair of eyes.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I could use a second pair of eyes. We can decide after we have more context.",
+        "I could use a second pair of eyes. I just want to make sure we're being practical.",
+        "I could use a second pair of eyes. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I could use a second pair of eyes."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-29",
+  "title": "Networking Without Being Stiff",
+  "description": "今天练习自然 networking.",
+  "items": [
+    {
+      "id": "2026-06-29-what-kind-of-work-are-you-focused-on",
+      "phrase": "What kind of work are you focused on?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "What kind of work are you focused on? We can decide after we have more context.",
+        "What kind of work are you focused on? I just want to make sure we're being practical.",
+        "What kind of work are you focused on? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What kind of work are you focused on?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-29-how-did-you-get-into-that",
+      "phrase": "How did you get into that?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "How did you get into that? We can decide after we have more context.",
+        "How did you get into that? I just want to make sure we're being practical.",
+        "How did you get into that? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "How did you get into that?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-29-i-d-love-to-stay-in-touch",
+      "phrase": "I'd love to stay in touch.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "I'd love to stay in touch. We can decide after we have more context.",
+        "I'd love to stay in touch. I just want to make sure we're being practical.",
+        "I'd love to stay in touch. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "I'd love to stay in touch."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-29-let-me-know-if-i-can-be-helpful",
+      "phrase": "Let me know if I can be helpful.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "Let me know if I can be helpful. We can decide after we have more context.",
+        "Let me know if I can be helpful. I just want to make sure we're being practical.",
+        "Let me know if I can be helpful. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Let me know if I can be helpful."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-29-it-was-great-chatting-with-you",
+      "phrase": "It was great chatting with you.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "It was great chatting with you. We can decide after we have more context.",
+        "It was great chatting with you. I just want to make sure we're being practical.",
+        "It was great chatting with you. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "It was great chatting with you."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

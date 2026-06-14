@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-18",
+  "title": "Making Plans Smoothly",
+  "description": "今天练习自然约时间、改计划、留余地.",
+  "items": [
+    {
+      "id": "2026-06-18-are-we-still-on-for",
+      "phrase": "Are we still on for...?",
+      "tone": "我们还照原计划吗",
+      "tags": [
+        "daily",
+        "friends",
+        "texting"
+      ],
+      "cn": "确认安排是否不变.",
+      "examples": [
+        "Are we still on for lunch tomorrow?",
+        "Are we still on for the call at two?",
+        "Are we still on for this weekend?"
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Are we still on for dinner tonight?"
+        ],
+        [
+          "B",
+          "Yes, still on. See you at seven."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-18-let-s-lock-it-in",
+      "phrase": "Let's lock it in.",
+      "tone": "那就定了",
+      "tags": [
+        "daily",
+        "work"
+      ],
+      "cn": "把计划确定下来.",
+      "examples": [
+        "Tuesday works. Let's lock it in.",
+        "If everyone is good with that, let's lock it in.",
+        "Let's lock it in before calendars fill up."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "How about Thursday morning?"
+        ],
+        [
+          "B",
+          "That works. Let's lock it in."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-18-i-m-flexible",
+      "phrase": "I'm flexible.",
+      "tone": "我都好安排",
+      "tags": [
+        "daily",
+        "work"
+      ],
+      "cn": "比 anything is OK 更自然.",
+      "examples": [
+        "I'm flexible, so pick whatever works for you.",
+        "I'm flexible on timing.",
+        "I'm flexible as long as it's after lunch."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Morning or afternoon?"
+        ],
+        [
+          "B",
+          "I'm flexible. Whatever is easier for you."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-18-let-s-play-it-by-ear",
+      "phrase": "Let's play it by ear.",
+      "tone": "到时候看情况",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "适合不想提前定死的安排.",
+      "examples": [
+        "Let's play it by ear and see how the day goes.",
+        "We can play it by ear after the meeting.",
+        "If it rains, let's play it by ear."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Do you want to grab coffee later?"
+        ],
+        [
+          "B",
+          "Maybe. Let's play it by ear."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-18-can-we-push-it-back-a-bit",
+      "phrase": "Can we push it back a bit?",
+      "tone": "能往后挪一点吗",
+      "tags": [
+        "daily",
+        "work"
+      ],
+      "cn": "改时间的自然说法.",
+      "examples": [
+        "Can we push it back a bit?",
+        "Can we push the call back by thirty minutes?",
+        "Can we push dinner back to eight?"
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Can we push it back a bit?"
+        ],
+        [
+          "B",
+          "Sure, eight works for me."
+        ]
+      ]
+    }
+  ]
+}

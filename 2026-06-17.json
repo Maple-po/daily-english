@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-17",
+  "title": "Giving Opinions Without Overstating",
+  "description": "今天练习表达观点但不过度绝对，听起来更成熟自然.",
+  "items": [
+    {
+      "id": "2026-06-17-my-read-is-that",
+      "phrase": "My read is that...",
+      "tone": "我的判断是",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "比 I think 更有判断感，但不武断.",
+      "examples": [
+        "My read is that the team needs more time.",
+        "My read is that pricing isn't the main issue.",
+        "My read is that we should keep this simple."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "What's your take on the feedback?"
+        ],
+        [
+          "B",
+          "My read is that people like the idea but need clearer examples."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-17-i-m-leaning-toward",
+      "phrase": "I'm leaning toward...",
+      "tone": "我倾向于",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "表达偏好但留有讨论空间.",
+      "examples": [
+        "I'm leaning toward the second option.",
+        "I'm leaning toward staying in tonight.",
+        "I'm leaning toward pushing this to next week."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Which version do you prefer?"
+        ],
+        [
+          "B",
+          "I'm leaning toward the cleaner one."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-17-i-m-not-totally-convinced",
+      "phrase": "I'm not totally convinced.",
+      "tone": "我还没完全被说服",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "温和表达保留意见.",
+      "examples": [
+        "I'm not totally convinced this solves the problem.",
+        "I'm not totally convinced we need a new tool.",
+        "I'm not totally convinced by that argument yet."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Should we rebuild the whole page?"
+        ],
+        [
+          "B",
+          "I'm not totally convinced that's necessary."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-17-it-depends-on-what-we-re-optimizing-for",
+      "phrase": "It depends on what we're optimizing for.",
+      "tone": "看我们优先什么",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "适合复杂讨论，显得很清醒.",
+      "examples": [
+        "It depends on what we're optimizing for: speed or quality.",
+        "It depends on what we're optimizing for here.",
+        "It depends on what matters most to the client."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Which plan is better?"
+        ],
+        [
+          "B",
+          "It depends on what we're optimizing for."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-17-i-could-be-wrong-but",
+      "phrase": "I could be wrong, but...",
+      "tone": "我可能不对，但",
+      "tags": [
+        "work",
+        "friends"
+      ],
+      "cn": "降低语气强度，适合提出不同看法.",
+      "examples": [
+        "I could be wrong, but I think we missed a step.",
+        "I could be wrong, but that doesn't sound right.",
+        "I could be wrong, but she seemed upset."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Everything looks fine to me."
+        ],
+        [
+          "B",
+          "I could be wrong, but I think the dates don't line up."
+        ]
+      ]
+    }
+  ]
+}

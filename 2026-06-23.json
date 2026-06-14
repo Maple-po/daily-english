@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-23",
+  "title": "Small Talk That Isn't Awkward",
+  "description": "今天练习自然寒暄.",
+  "items": [
+    {
+      "id": "2026-06-23-how-s-your-week-going",
+      "phrase": "How's your week going?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "How's your week going? We can decide after we have more context.",
+        "How's your week going? I just want to make sure we're being practical.",
+        "How's your week going? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "How's your week going?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-23-anything-fun-planned",
+      "phrase": "Anything fun planned?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "Anything fun planned? We can decide after we have more context.",
+        "Anything fun planned? I just want to make sure we're being practical.",
+        "Anything fun planned? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Anything fun planned?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-23-how-was-your-weekend",
+      "phrase": "How was your weekend?",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "How was your weekend? We can decide after we have more context.",
+        "How was your weekend? I just want to make sure we're being practical.",
+        "How was your weekend? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "How was your weekend?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-23-it-s-been-a-minute",
+      "phrase": "It's been a minute.",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "It's been a minute. We can decide after we have more context.",
+        "It's been a minute. I just want to make sure we're being practical.",
+        "It's been a minute. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "It's been a minute."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-06-23-good-to-finally-meet-in-person",
+      "phrase": "Good to finally meet in person.",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Good to finally meet in person. We can decide after we have more context.",
+        "Good to finally meet in person. I just want to make sure we're being practical.",
+        "Good to finally meet in person. Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Good to finally meet in person."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}

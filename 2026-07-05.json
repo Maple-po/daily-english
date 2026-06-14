@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-05",
+  "title": "Making Suggestions Casually",
+  "description": "今天练习自然提建议.",
+  "items": [
+    {
+      "id": "2026-07-05-you-might-want-to",
+      "phrase": "You might want to...",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "You might want to... We can decide after we have more context.",
+        "You might want to... I just want to make sure we're being practical.",
+        "You might want to... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "You might want to..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-05-it-might-be-worth",
+      "phrase": "It might be worth...",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "friends"
+      ],
+      "cn": "这个表达适合在朋友聊天里使用，语气自然，不会太书面.",
+      "examples": [
+        "It might be worth... We can decide after we have more context.",
+        "It might be worth... I just want to make sure we're being practical.",
+        "It might be worth... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "It might be worth..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-05-maybe-we-could",
+      "phrase": "Maybe we could...",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "Maybe we could... We can decide after we have more context.",
+        "Maybe we could... I just want to make sure we're being practical.",
+        "Maybe we could... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Maybe we could..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-05-have-you-thought-about",
+      "phrase": "Have you thought about...?",
+      "tone": "轻松但得体",
+      "tags": [
+        "daily",
+        "texting"
+      ],
+      "cn": "这个表达适合在日常交流里使用，语气自然，不会太书面.",
+      "examples": [
+        "Have you thought about...? We can decide after we have more context.",
+        "Have you thought about...? I just want to make sure we're being practical.",
+        "Have you thought about...? Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "Have you thought about...?"
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    },
+    {
+      "id": "2026-07-05-one-option-would-be",
+      "phrase": "One option would be...",
+      "tone": "自然实用",
+      "tags": [
+        "work",
+        "daily"
+      ],
+      "cn": "这个表达适合在工作沟通里使用，语气自然，不会太书面.",
+      "examples": [
+        "One option would be... We can decide after we have more context.",
+        "One option would be... I just want to make sure we're being practical.",
+        "One option would be... Let me know what you think."
+      ],
+      "dialogue": [
+        [
+          "A",
+          "One option would be..."
+        ],
+        [
+          "B",
+          "That makes sense. Let's go with that for now."
+        ],
+        [
+          "A",
+          "Great, I'll follow up later."
+        ]
+      ]
+    }
+  ]
+}
